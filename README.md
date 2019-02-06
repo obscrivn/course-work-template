@@ -7,6 +7,7 @@ This repository is a collection of code and figures used in the final project.
 - Dataset name
 - Source
 - Number of rows and observation
+- Total
 
 ## Analysis
 TO DO
